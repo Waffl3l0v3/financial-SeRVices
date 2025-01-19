@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+
+![Stock Data](https://github.com/user-attachments/assets/56e5fb9c-8597-43d2-a32d-66197d007abe)
+![Resources](https://github.com/user-attachments/assets/e95bfd59-2a20-440e-8dcb-60fc451d256a)
+![Home](https://github.com/user-attachments/assets/32226073-0409-4b57-8918-217a24dfd1fd)
+![Currency Concerter](https://github.com/user-attachments/assets/a8da499c-ec1e-4881-b2e0-b08b039e6001)
+
